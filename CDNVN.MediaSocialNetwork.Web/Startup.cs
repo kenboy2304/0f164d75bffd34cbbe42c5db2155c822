@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(CDNVN.MediaSocialNetwork.Startup))]
-namespace CDNVN.MediaSocialNetwork
+[assembly: OwinStartupAttribute(typeof(CDNVN.MediaSocialNetwork.Web.Startup))]
+namespace CDNVN.MediaSocialNetwork.Web
 {
     public partial class Startup
     {

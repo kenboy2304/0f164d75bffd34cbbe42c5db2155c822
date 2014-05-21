@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CDNVN.MediaSocialNetwork")]
+[assembly: AssemblyTitle("CDNVN.MediaSocialNetwork.Web")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CDNVN.MediaSocialNetwork")]
+[assembly: AssemblyProduct("CDNVN.MediaSocialNetwork.Web")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("51c2908b-7163-438b-8a2c-ebbf76733332")]
+[assembly: Guid("11f5f47c-d4f9-46a2-90d5-0052dccafd9c")]
 
 // Version information for an assembly consists of the following four values:
 //

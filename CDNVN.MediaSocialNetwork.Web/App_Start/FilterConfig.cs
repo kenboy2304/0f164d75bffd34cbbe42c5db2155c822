@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace CDNVN.MediaSocialNetwork
+namespace CDNVN.MediaSocialNetwork.Web
 {
     public class FilterConfig
     {

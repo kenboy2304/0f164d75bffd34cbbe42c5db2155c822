@@ -3,7 +3,7 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Owin;
 
-namespace CDNVN.MediaSocialNetwork
+namespace CDNVN.MediaSocialNetwork.Web
 {
     public partial class Startup
     {

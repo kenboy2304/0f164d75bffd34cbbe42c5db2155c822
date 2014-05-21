@@ -7,12 +7,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{025908D8-5AEE-4284-A8FD-3B611317B219}</ProjectGuid>
+    <ProjectGuid>{C0C40A5B-47FC-407F-83BB-B73A108C6A07}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CDNVN.MediaSocialNetwork</RootNamespace>
-    <AssemblyName>CDNVN.MediaSocialNetwork</AssemblyName>
+    <RootNamespace>CDNVN.MediaSocialNetwork.Web</RootNamespace>
+    <AssemblyName>CDNVN.MediaSocialNetwork.Web</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
@@ -241,9 +241,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>29701</DevelopmentServerPort>
+          <DevelopmentServerPort>29969</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:29701/</IISUrl>
+          <IISUrl>http://localhost:29969/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

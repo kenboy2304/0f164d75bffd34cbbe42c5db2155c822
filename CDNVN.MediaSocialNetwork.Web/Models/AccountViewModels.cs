@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace CDNVN.MediaSocialNetwork.Models
+namespace CDNVN.MediaSocialNetwork.Web.Models
 {
     public class ExternalLoginConfirmationViewModel
     {

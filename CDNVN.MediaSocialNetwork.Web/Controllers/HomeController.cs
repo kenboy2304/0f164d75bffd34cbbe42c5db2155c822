@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace CDNVN.MediaSocialNetwork.Controllers
+namespace CDNVN.MediaSocialNetwork.Web.Controllers
 {
     public class HomeController : Controller
     {

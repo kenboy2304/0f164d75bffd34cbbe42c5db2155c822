@@ -8,9 +8,9 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.Owin.Security;
-using CDNVN.MediaSocialNetwork.Models;
+using CDNVN.MediaSocialNetwork.Web.Models;
 
-namespace CDNVN.MediaSocialNetwork.Controllers
+namespace CDNVN.MediaSocialNetwork.Web.Controllers
 {
     [Authorize]
     public class AccountController : Controller
